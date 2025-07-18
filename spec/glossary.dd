@@ -189,7 +189,7 @@ void test()
         $(DT $(LEGACY_LNAME2 opApply, op-apply, opApply))
         $(DD A special member function used to iterate over a
         collection; this is used by the
-        $(LINK2 spec/statement.html#opApply, $(I ForeachStatement)).
+        $(LINK2 spec/statement.html##foreach_over_struct_and_classes, $(I ForeachStatement)).
         )
 
         $(DT $(LEGACY_LNAME2 opApplyReverse, op-apply-reverse, opApplyReverse))
